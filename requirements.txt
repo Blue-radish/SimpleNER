@@ -1,0 +1,8 @@
+transformers
+datasets
+numpy
+pandas
+matplotlib
+sympy==1.13.1
+tqdm
+pytorch-crf
